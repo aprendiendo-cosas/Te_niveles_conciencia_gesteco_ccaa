@@ -1,7 +1,7 @@
 # La conciencia como instrumento para entender conflictos socioecológicos
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > +  **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión de 0.5 horas.
